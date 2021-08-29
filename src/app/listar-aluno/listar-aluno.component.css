@@ -1,0 +1,14 @@
+table{
+    text-align: center;
+
+}
+
+table td, th{
+    text-align: center;
+    padding: 20px;
+}
+
+div{
+    display:flex;
+    justify-content: center;
+}
